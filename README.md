@@ -1,3 +1,3 @@
 # git-course
 
-- First commit on fork - second branch
+- First commit on fork 2 - second branch
